@@ -30,7 +30,7 @@ ImageMap('img[usemap]');
     krystalEggArea.addEventListener('click', event => showOverlayAndPlayVideo(event, 'jKLzwUggKDI'));
     howToCrackArea.addEventListener('click', handleHowToCrackAreaClick);
     howToCrackPostIt.addEventListener('click', handleHowToCrackAreaClick);
-    exkursionPostIt.addEventListener('click', event => showOverlayAndPlayVideo(event, 'B3pl9NG7IpQ'));
+
 
     function handleEggIslandClick(event) {
         showOverlayAndPlayVideo(event, 'hA3dkTOUz9A');
