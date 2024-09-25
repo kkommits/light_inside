@@ -20,7 +20,7 @@ ImageMap('img[usemap]');
     const krystalEggArea = document.getElementById('krystal-egg-area');
     const howToCrackArea = document.getElementById('how-to-crack-area');
     const howToCrackPostIt = document.getElementById('how-to-crack-postit');
-    const exkursionPostIt = document.getElementById('exkursion-postit');
+
 
     topLeftPostIt.addEventListener('click', event => showOverlayAndPlayVideo(event, 'jKLzwUggKDI'))
     eggIslandArea.addEventListener('click', handleEggIslandClick);
